@@ -1,0 +1,8 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  dllmain.cpp
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(958,76): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(964,76): warning C4003: 类函数宏的调用“min”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(965,75): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(982,66): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(983,72): warning C4003: 类函数宏的调用“max”参数不足
+  RC.vcxproj -> C:\Users\Ac1d\Desktop\RC\x64\Debug\RC.dll

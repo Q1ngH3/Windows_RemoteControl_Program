@@ -1,0 +1,139 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  autoStartupDir.cpp
+  dllmain.cpp
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(958,76): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(964,76): warning C4003: 类函数宏的调用“min”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(965,75): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(982,66): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(983,72): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\dllmain.cpp(23,31): warning C4996: '__p__pgmptr': This function or variable may be unsafe. Consider using _get_pgmptr instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  documentLookUp.cpp
+C:\Users\Ac1d\Desktop\RC\RC\documentLookUp.cpp(14,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  fileTrans.cpp
+C:\Users\Ac1d\Desktop\RC\RC\fileTrans.cpp(12,16): warning C4244: “初始化”: 从“std::streamoff”转换到“DWORD”，可能丢失数据
+  keylogger.cpp
+C:\Users\Ac1d\Desktop\RC\RC\keylogger.cpp(223,11): warning C4566: 由通用字符名称“\u010D”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\Ac1d\Desktop\RC\RC\keylogger.cpp(298,11): warning C4566: 由通用字符名称“\u0107”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\Ac1d\Desktop\RC\RC\keylogger.cpp(301,11): warning C4566: 由通用字符名称“\u0111”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\Ac1d\Desktop\RC\RC\keylogger.cpp(322,11): warning C4566: 由通用字符名称“\u010D”表示的字符不能在当前代码页(936)中表示出来
+  Protocol.cpp
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(958,76): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(964,76): warning C4003: 类函数宏的调用“min”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(965,75): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(982,66): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\rapidjson\document.h(983,72): warning C4003: 类函数宏的调用“max”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\Protocol.cpp(49,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Ac1d\Desktop\RC\RC\Protocol.cpp(86,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ac1d\Desktop\RC\RC\Protocol.cpp(189,20): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  reg.cpp
+  screenShot.cpp
+C:\Users\Ac1d\Desktop\RC\RC\screenShot.cpp(32,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\screenShot.cpp(33,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\screenShot.cpp(50,20): warning C4018: “<”: 有符号/无符号不匹配
+  showError.cpp
+  struct.cpp
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(155,17): warning C4244: “=”: 从“uint64_t”转换到“long double”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(180,22): warning C4244: “=”: 从“uint16_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(185,22): warning C4244: “=”: 从“uint16_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(208,22): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(209,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(210,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(211,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(212,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(213,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(214,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(219,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(220,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(221,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(222,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(223,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(224,26): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(225,22): warning C4244: “=”: 从“uint64_t”转换到“unsigned char”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(232,22): warning C4244: “参数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(370,12): warning C4244: “=”: 从“long double”转换到“float”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(383,5): warning C4003: 类函数宏的调用“INIT_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(430,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(433,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(436,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(439,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(442,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(445,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(448,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(451,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(455,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(458,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(462,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(465,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(468,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(471,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(474,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(477,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(480,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(481,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(483,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(486,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(489,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(496,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(498,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(502,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(504,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(508,17): warning C4003: 类函数宏的调用“INC_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(516,13): warning C4003: 类函数宏的调用“CLEAR_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(528,5): warning C4003: 类函数宏的调用“INIT_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(569,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(572,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(575,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(578,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(581,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(584,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(587,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(590,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(594,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(597,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(601,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(604,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(607,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(610,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(613,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(616,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(619,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(622,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(625,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(628,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(635,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(637,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(641,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(643,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(647,17): warning C4003: 类函数宏的调用“INC_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(655,13): warning C4003: 类函数宏的调用“CLEAR_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(721,5): warning C4003: 类函数宏的调用“INIT_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(737,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(739,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(742,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(744,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(747,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(749,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(752,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(754,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(758,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(760,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(764,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(766,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(769,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(771,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(774,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(776,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(779,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(781,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(784,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(786,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(790,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(792,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(795,13): warning C4003: 类函数宏的调用“BEGIN_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(797,13): warning C4003: 类函数宏的调用“END_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(801,17): warning C4003: 类函数宏的调用“INC_REPETITION”参数不足
+C:\Users\Ac1d\Desktop\RC\RC\struct.cpp(809,13): warning C4003: 类函数宏的调用“CLEAR_REPETITION”参数不足
+  struct_endian.cpp
+  正在生成代码...
+C:\Users\Ac1d\Desktop\RC\RC\keylogger.cpp(652): warning C4715: “StartKeyLogging”: 不是所有的控件路径都返回值
+  RC.vcxproj -> C:\Users\Ac1d\Desktop\RC\Debug\RC.dll
